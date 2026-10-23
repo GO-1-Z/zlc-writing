@@ -1,0 +1,4 @@
+interface:
+  display_name: "zlc-writing"
+  short_description: "机器学习与计算机视觉论文的叙事润色、审稿检查和投稿材料准备"
+  default_prompt: "使用 $zlc-writing 检查并润色当前论文，遵守我的摘要和篇幅约定，直接修改有证据支持的文字问题，并单独列出需要补充的实验。"
